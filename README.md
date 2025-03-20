@@ -18,7 +18,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=AjayPeter582&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+🔗 [Thirukkural API](https://api-thirukkural.vercel.app/api?num=1)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AjayPeter582&icon=2&color=4)](https://visitcount.itsvg.in)
