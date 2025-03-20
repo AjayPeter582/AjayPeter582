@@ -1,5 +1,5 @@
 # 💫 About Me
-🔭 I’m currently working on a video streaming project<br>🌱 I’m currently learning next.js<br>👯 I’m looking to collaborate on MERN projects<br>🤔 I’m looking for help with dynamic web projects<br>💬 Ask me about coding, react, mongodb<br>📫 How to reach me: ajaypeter2005@gmail.com or https://www.linkedin.com/in/ajay-peter-r/<br>😄 Pronouns: he/him<br>⚡ Fun fact: i love chocolates
+🔭 I’m currently working on a video streaming project<br>🌱 I’m currently learning php<br>👯 I’m looking to collaborate on MERN projects<br>🤔 I’m looking for help with dynamic web projects<br>💬 Ask me about coding, react, mongodb<br>📫 How to reach me: ajaypeter2005@gmail.com or https://www.linkedin.com/in/ajay-peter-r/<br>😄 Pronouns: he/him<br>⚡ Fun fact: i love chocolates
 
 
 ## 🌐 Socials:
